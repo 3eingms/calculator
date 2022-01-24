@@ -9,6 +9,7 @@ input{
     border: 3px solid blue;
     border-radius: 3px;
     box-shadow: inset black 1px 1px 4px 0px;
+    margin-bottom: 8px;
 }
 
 button{
@@ -20,6 +21,7 @@ button{
     font-size: 20px;
     border-radius: 3px;
     border: none;
+    font-weight: bolder;
 }
 button:hover{
     color: #c9c9e2;
